@@ -15,10 +15,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/TDMinhNhat/TDMinhNhat/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
