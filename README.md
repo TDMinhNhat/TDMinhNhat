@@ -1,6 +1,6 @@
 <br clear="both">
 
-<span align="center" style="font-size: 100px">Profile Views</span>
+<h1 align="center">Profile Views</h1>
 
 ###
 
