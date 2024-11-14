@@ -1,5 +1,11 @@
 <br clear="both">
 
+<h1 align="center">Profile Views</h1>
+
+###
+
+<br clear="both">
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/TDMinhNhat/count.svg?"  />
 </div>
@@ -32,5 +38,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
 </div>
+
+###
+
+<img align="left" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWVsazE1cDRreTg0cXR5bDVnYTZuaTlocXA5aHUxeDZnM3NhMWIxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q61LJj43H48z1FIK4X/giphy.webp"  />
+
+###
+
+<img align="left" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDhzazlzdDF6anJzY3d3Ym5rbm0xcWs2d3IwYTFrY3cyZHZzZmlwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cn89fWO9vise61dCRj/giphy.webp"  />
 
 ###
