@@ -1,41 +1,68 @@
-<br clear="both">
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=tdminhnhat&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158603211%3Fu%3Db3e547814e3c7c260cde2996d8b738059a313e6b%26v%3D4" alt="tdminhnhat hero visual" />
+</p>
 
-<h1 align="center">Profile Views</h1>
+<p align="center"><b>Trương Dương Minh Nhật</b> · Frontend or full-stack engineer<br/><sub>Java Development - Spring Framework - SQL</sub></p>
 
-###
+<p align="center"><a href="https://github.com/tdminhnhat">GitHub</a> · <a href="https://portfolio-website-five-ashen-57.vercel.app/">Website</a></p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TDMinhNhat&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TDMinhNhat&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TDMinhNhat&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+<details open>
+<summary><b>📌 Top projects</b></summary>
+<br/>
 
-###
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=tdminhnhat&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158603211%3Fu%3Db3e547814e3c7c260cde2996d8b738059a313e6b%26v%3D4" alt="tdminhnhat projects visual" />
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-</div>
+- [Generate_Database_Tools](https://github.com/TDMinhNhat/Generate_Database_Tools) · ★ 5 — A library can help you create database automatically. 
+- [solarhealth](https://github.com/TDMinhNhat/solarhealth) · ★ 4 — An application allows the patients can detect disease themself and support them from remote
+- [travelling-mobile-app-repo](https://github.com/TDMinhNhat/travelling-mobile-app-repo) · ★ 2 — A mobile application for booking travel. This include FE and BE. Using &quot;Microservices&quot; architect to 
+- [TDMinhNhat](https://github.com/TDMinhNhat/TDMinhNhat) · ★ 2 — Config files for my GitHub profile.
+- [Machine_Learning_Model_Example](https://github.com/TDMinhNhat/Machine_Learning_Model_Example) · ★ 1 — List of examples for each machine learning
+- [N10_SA_DKHP](https://github.com/TDMinhNhat/N10_SA_DKHP) · ★ 0 — A repository fully about FE and BE follow the microservices architecture style
 
-###
+</details>
 
-<img align="left" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDhzazlzdDF6anJzY3d3Ym5rbm0xcWs2d3IwYTFrY3cyZHZzZmlwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cn89fWO9vise61dCRj/giphy.webp"  />
+<details>
+<summary><b>🧰 Stack</b></summary>
+<br/>
 
-###
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=tdminhnhat&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158603211%3Fu%3Db3e547814e3c7c260cde2996d8b738059a313e6b%26v%3D4" alt="tdminhnhat stack visual" />
+</p>
+
+</details>
+
+<details>
+<summary><b>📊 By the numbers</b></summary>
+<br/>
+
+<b>27</b> public repositories, <b>14</b> stars, <b>57</b> contributions in the last year, a longest streak of <b>3</b> days and <b>5</b> followers.
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=tdminhnhat&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158603211%3Fu%3Db3e547814e3c7c260cde2996d8b738059a313e6b%26v%3D4" alt="tdminhnhat stats visual" />
+</p>
+
+</details>
+
+<details>
+<summary><b>🟩 Activity</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=tdminhnhat&theme=neon" alt="tdminhnhat contribution activity" />
+</p>
+
+</details>
+
+<details>
+<summary><b>👋 Say hello</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=tdminhnhat&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158603211%3Fu%3Db3e547814e3c7c260cde2996d8b738059a313e6b%26v%3D4" alt="tdminhnhat social visual" />
+</p>
+
+</details>
+
+<p align="center"><sub>Trương Dương Minh Nhật · Everything hub generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
